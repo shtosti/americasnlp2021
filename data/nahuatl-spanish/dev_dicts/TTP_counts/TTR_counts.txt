@@ -1,0 +1,2 @@
+dev_dict.dev.nah.txt 0.40274866061029585
+dev_dict.dev.es.txt 0.2893320671098449

@@ -1,0 +1,4 @@
+dev_dict.dev.es.txt 0.25729992790194667
+dev_dict.dev.gn.txt 0.41040301213219915
+dev_dict.dev.es.txt 0.25729992790194667
+dev_dict.dev.gn.txt 0.41040301213219915

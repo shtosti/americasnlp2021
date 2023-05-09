@@ -1,0 +1,2 @@
+dev_dict.dev.tar.txt 0.24951811873554355
+dev_dict.dev.es.txt 0.25729992790194667

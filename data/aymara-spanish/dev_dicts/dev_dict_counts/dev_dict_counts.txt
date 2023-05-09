@@ -1,0 +1,2 @@
+dev_dict.dev.aym.txt 3920
+dev_dict.dev.es.txt 2855

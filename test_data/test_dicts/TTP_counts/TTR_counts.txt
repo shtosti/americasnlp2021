@@ -1,0 +1,10 @@
+test_dict.test.bzd.txt 0.16328799931571295
+test_dict.test.hch.txt 0.31258854482898196
+test_dict.test.aym.txt 0.5501040737436812
+test_dict.test.es.txt 0.24549347674534408
+test_dict.test.gn.txt 0.4144533662754787
+test_dict.test.cni.txt 0.47976338729763385
+test_dict.test.shp.txt 0.33050463905861055
+test_dict.test.oto.txt 0.21544245228455755
+test_dict.test.nah.txt 0.38588199420643393
+test_dict.test.quy.txt 0.5127369668246445

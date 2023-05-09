@@ -1,0 +1,2 @@
+dev_dict.dev.cni.txt 0.4732231404958678
+dev_dict.dev.es.txt 0.2689137013461338

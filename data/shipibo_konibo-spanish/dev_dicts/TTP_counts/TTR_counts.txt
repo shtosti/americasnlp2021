@@ -1,0 +1,2 @@
+dev_dict.dev.shp.txt 0.3362676056338028
+dev_dict.dev.es.txt 0.25729992790194667

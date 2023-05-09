@@ -1,0 +1,2 @@
+dev_dict.dev.oto.txt 0.2934890164258856
+dev_dict.dev.es.txt 0.3164705882352941

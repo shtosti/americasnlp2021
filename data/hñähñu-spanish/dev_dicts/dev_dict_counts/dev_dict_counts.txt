@@ -1,0 +1,2 @@
+dev_dict.dev.oto.txt 1483
+dev_dict.dev.es.txt 1614

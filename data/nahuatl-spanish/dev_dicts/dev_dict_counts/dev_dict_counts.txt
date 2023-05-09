@@ -1,0 +1,2 @@
+dev_dict.dev.nah.txt 1729
+dev_dict.dev.es.txt 1828
